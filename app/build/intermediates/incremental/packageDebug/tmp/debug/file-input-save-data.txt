@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Mar 04 16:06:51 EST 2021
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\edshi\\Documents\\EECS 4443\\Lab 3\\Demo_Scale\\Demo_Scale\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
